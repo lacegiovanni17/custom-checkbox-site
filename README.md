@@ -1,5 +1,4 @@
 # custom-checkbox-site
-# contact-page-site
 👋 Hi, I’m Chidike Henry.
 😎 I’m a web developer 
 💻 This is a contact page site made with HTML & CSS. 
